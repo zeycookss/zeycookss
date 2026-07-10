@@ -55,6 +55,11 @@ Hi! I'm <b>Zainab</b>, a first-year ICS student from Pakistan who enjoys learnin
 ---
 
 ## 💻 Tech Stack
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&theme=dark"/>
+
+</p>
 
 ---
 
