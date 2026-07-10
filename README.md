@@ -67,23 +67,21 @@ Hi! I'm <b>Zainab</b>, a first-year ICS student from Pakistan who enjoys learnin
 <table>
 <tr>
 
-<td width="38%" align="center">
+<td width="40%" align="center">
 
-<img src="flower.png" width="350">
+<img src="redbull.png" width="350">
 
 </td>
 
-<td width="100%" valign="top">
+<td width="60%" valign="middle">
 
 ## Current Projects
 
-```txt
-• Weatherly
-• Netflix Matchmaker
-• Notes App
-• Tic Tac Toe
-• URL Shortener
-```
+> Weatherly  
+> Netflix Matchmaker  
+> Notes App  
+> Tic Tac Toe  
+> URL Shortener
 
 </td>
 
