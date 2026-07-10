@@ -59,32 +59,24 @@ Hi! I'm <b>Zainab</b>, a first-year ICS student from Pakistan who enjoys learnin
 ---
 
 <table style="width:100%;">
-<tr>
-
- <td style="width:50%; text-align:center; vertical-align:middle;">
-
- <img src="flower.png" style="max-width:100%; height:auto;">
-
-</td>
-
-<td style="width:50%; vertical-align:middle;">
- <h2>Current Projects</h2>
+  <tr>
+    <td style="width:50%; text-align:center; vertical-align:middle;">
+      <img src="redbull.png" style="max-width:100%; height:auto;">
+    </td>
+    <td style="width:50%; vertical-align:middle;">
+      <h2>Current Projects</h2>
       <pre>
-## Current Projects
-
-```yaml
 Current:
   - Weatherly
   - Netflix Matchmaker
   - Notes App
   - Tic Tac Toe
   - URL Shortener
-</pre>
-
-</td>
-
-</tr>
+      </pre>
+    </td>
+  </tr>
 </table>
+
 
 ---
 
