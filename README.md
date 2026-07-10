@@ -61,7 +61,6 @@ Hi! I'm <b>Zainab</b>, a first-year ICS student from Pakistan who enjoys learnin
 <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&theme=dark"/>
 
 </p>
-
 ---
 
 <table>
@@ -69,7 +68,7 @@ Hi! I'm <b>Zainab</b>, a first-year ICS student from Pakistan who enjoys learnin
 
 <td width="40%" align="center">
 
-<img src="redbull.png" width="350">
+<img src="flower.png" width="350">
 
 </td>
 
@@ -77,11 +76,14 @@ Hi! I'm <b>Zainab</b>, a first-year ICS student from Pakistan who enjoys learnin
 
 ## Current Projects
 
-> Weatherly  
-> Netflix Matchmaker  
-> Notes App  
-> Tic Tac Toe  
-> URL Shortener
+```yaml
+Current:
+  - Weatherly
+  - Netflix Matchmaker
+  - Notes App
+  - Tic Tac Toe
+  - URL Shortener
+```
 
 </td>
 
@@ -89,6 +91,8 @@ Hi! I'm <b>Zainab</b>, a first-year ICS student from Pakistan who enjoys learnin
 </table>
 
 ---
+
+
 
 ## 🌐 Connect With Me
 
