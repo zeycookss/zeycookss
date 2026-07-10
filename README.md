@@ -56,21 +56,18 @@ Hi! I'm <b>Zainab</b>, a first-year ICS student from Pakistan who enjoys learnin
 
 ## 💻 Tech Stack
 
-<p align="center">
+---
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&theme=dark"/>
-
-</p>
-<table width="100%">
+<table>
 <tr>
 
-<td align="center" width="280">
+<td width="40%" align="center">
 
-<img src="flower.png" width="320">
+<img src="redbull.png" width="350">
 
 </td>
 
-<td align="left">
+<td width="60%" valign="middle">
 
 ## Current Projects
 
@@ -81,13 +78,14 @@ Current:
   - Notes App
   - Tic Tac Toe
   - URL Shortener
+```
+
 </td>
 
 </tr>
 </table>
 
 ---
-
 
 
 ## 🌐 Connect With Me
