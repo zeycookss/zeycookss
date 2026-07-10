@@ -58,17 +58,18 @@ Hi! I'm <b>Zainab</b>, a first-year ICS student from Pakistan who enjoys learnin
 
 ---
 
-<table>
+<table style="width:100%;">
 <tr>
 
-<td width="40%" align="center">
+ <td style="width:50%; text-align:center; vertical-align:middle;">
 
-<img src="flower.png" width="350">
+ <img src="flower.png" style="max-width:100%; height:auto;">
 
 </td>
 
-<td width="60%" valign="middle">
-
+<td style="width:50%; vertical-align:middle;">
+ <h2>Current Projects</h2>
+      <pre>
 ## Current Projects
 
 ```yaml
@@ -78,7 +79,7 @@ Current:
   - Notes App
   - Tic Tac Toe
   - URL Shortener
-```
+</pre>
 
 </td>
 
