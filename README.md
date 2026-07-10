@@ -64,16 +64,33 @@ Hi! I'm <b>Zainab</b>, a first-year ICS student from Pakistan who enjoys learnin
 
 ---
 
-<img align="right" src="flower.png" width="350">
+<table>
+<tr>
 
-## 🚀 Current Projects
+<td width="38%" align="center">
 
-- 🌦️ Weatherly
-- 🎬 Netflix Matchmaker
-- 📝 Notes App
-- 🎮 Tic Tac Toe
-- 🔗 URL Shortener
+<img src="flower.png" width="350">
 
+</td>
+
+<td width="62%" valign="top">
+
+## Current Projects
+
+```txt
+• Weatherly
+• Netflix Matchmaker
+• Notes App
+• Tic Tac Toe
+• URL Shortener
+```
+
+</td>
+
+</tr>
+</table>
+
+---
 
 ## 🌐 Connect With Me
 
