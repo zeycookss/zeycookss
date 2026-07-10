@@ -64,7 +64,7 @@ Hi! I'm <b>Zainab</b>, a first-year ICS student from Pakistan who enjoys learnin
 
 ---
 
-<img align="right" src="redbull.png" width="150">
+<img align="right" src="flower.png" width="350">
 
 ## 🚀 Current Projects
 
