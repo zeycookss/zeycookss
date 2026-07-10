@@ -64,34 +64,15 @@ Hi! I'm <b>Zainab</b>, a first-year ICS student from Pakistan who enjoys learnin
 
 ---
 
-<table>
-<tr>
-
-<td>
-
-<img src="redbull.png" width="200">
-
-</td>
-
-<td>
+<img align="right" src="redbull.png" width="150">
 
 ## 🚀 Current Projects
 
-🌦️ Weatherly
-
-🎬 Netflix Matchmaker
-
-📝 Notes App
-
-🎮 Tic Tac Toe
-
-🔗 URL Shortener
-
-</td>
-
-</tr>
-</table>
-
+- 🌦️ Weatherly
+- 🎬 Netflix Matchmaker
+- 📝 Notes App
+- 🎮 Tic Tac Toe
+- 🔗 URL Shortener
 ---
 
 ## 📈 GitHub Stats
