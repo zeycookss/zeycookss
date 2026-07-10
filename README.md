@@ -69,7 +69,7 @@ Hi! I'm <b>Zainab</b>, a first-year ICS student from Pakistan who enjoys learnin
 
 <td width="35%" align="center" valign="middle" style="padding:40px; border-right:3px solid #FFD3E8;">
 
-<img src="seashell.png" width="340" alt="Seashell">
+<img src="flower.png" width="340" alt="Seashell">
 
 </td>
 
