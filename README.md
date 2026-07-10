@@ -57,19 +57,16 @@ Hi! I'm <b>Zainab</b>, a first-year ICS student from Pakistan who enjoys learnin
 ## 💻 Tech Stack
 
 ---
-
----
-
 <table>
 <tr>
 
-<td width="40%" align="center">
+<td width="50%" align="center">
 
-<img src="flower.png" width="350">
+<img src="redbull.png" width="500">
 
 </td>
 
-<td width="60%" valign="middle">
+<td width="50%" valign="middle">
 
 ## Current Projects
 
@@ -87,7 +84,6 @@ Current:
 </tr>
 </table>
 
----
 ---
 
 
