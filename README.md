@@ -62,7 +62,7 @@ Hi! I'm <b>Zainab</b>, a first-year ICS student from Pakistan who enjoys learnin
 
 <td width="50%" align="center">
 
-<img src="redbull.png" width="500">
+<img src="flower.png" width="500">
 
 </td>
 
