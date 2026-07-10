@@ -62,7 +62,6 @@ Hi! I'm <b>Zainab</b>, a first-year ICS student from Pakistan who enjoys learnin
 </p>
 
 ---
-## 🚀 Current Projects
 <table width="100%" style="width:100%; border:3px solid #FFB6D9; border-radius:20px; border-collapse:collapse; background-color:#FFF7FB;">
 
 <tr>
