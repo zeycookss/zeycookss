@@ -12,46 +12,48 @@
 
 ---
 
-<table>
+<table width="100%">
 <tr>
 
-<td width="65%">
+<td width="70%" valign="top">
 
-## 🌙 About Me
+<h2>About Me</h2>
 
-```cpp
-class Zainab {
-public:
-    string role = "Student Developer";
-    string location = "Pakistan";
-    string currentlyLearning[] = {
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "Python",
-        "Git & GitHub"
-    };
+<p>
 
-    string interests[] = {
-        "Web Development",
-        "Artificial Intelligence",
-        "Data Science",
-        "UI/UX Design"
-    };
-};
-```
+Hi! I'm <b>Zainab</b>, a first-year ICS student from Pakistan who enjoys learning new technologies and building beginner-friendly projects. I'm currently exploring HTML, CSS, JavaScript, Python, and Git while improving my programming and problem-solving skills. I enjoy creating clean, interactive websites and continuously expanding my knowledge through personal projects. My current interests include web development, artificial intelligence, data science, and UI/UX design.
+
+</p>
+
+<h3>Currently Learning</h3>
+
+<ul>
+<li>HTML</li>
+<li>CSS</li>
+<li>JavaScript</li>
+<li>Python</li>
+<li>Git & GitHub</li>
+</ul>
+
+<h3>Interests</h3>
+
+<ul>
+<li>Web Development</li>
+<li>Artificial Intelligence</li>
+<li>Data Science</li>
+<li>UI/UX Design</li>
+</ul>
 
 </td>
 
-<td>
+<td width="30%" align="center">
 
-<img src="fish.png" width="240">
+<img src="fish.png" width="300">
 
 </td>
 
 </tr>
 </table>
-
 ---
 
 ## 💻 Tech Stack
