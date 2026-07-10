@@ -73,7 +73,7 @@ Hi! I'm <b>Zainab</b>, a first-year ICS student from Pakistan who enjoys learnin
 
 </td>
 
-<td width="62%" valign="top">
+<td width="100%" valign="top">
 
 ## Current Projects
 
