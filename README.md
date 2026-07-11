@@ -4,7 +4,7 @@
 
 # 𝒁𝒂𝒊𝒏𝒂𝒃 𝒁𝒖𝒍𝒇𝒊𝒒𝒂𝒓
 
-### 「 Software Developer • First-Year ICS Student • Always Learning 」
+### 「 First-Year ICS Student • Always Learning 」
 
 *"Building meaningful projects, one commit at a time."*
 
