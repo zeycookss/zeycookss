@@ -81,11 +81,11 @@ Hi! I'm <b>Zainab</b>, a first-year ICS student from Pakistan who enjoys learnin
 
 <p style="color:#D85D9D; font-size:22px; line-height:2.2; font-family:Arial,sans-serif;">
 
-🌦️ <b>Weatherly</b><br><br>
+🌦️ <b>Weatherly – Live weather forecasting app (Live Demo)
+</b><br><br>
 
 🎬 <b>Netflix Matchmaker</b> <i>(Coming Soon)</i><br><br>
 
-🧮 <b>Pixel Calculator</b>
 
 </p>
 
